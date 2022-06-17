@@ -9,3 +9,10 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=calimarkus&hide_border=true&border_radius=0&theme=github_dark&layout=compact&custom_title=Languages&langs_count=3&hide=Ruby">
   <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calimarkus&hide_border=true&border_radius=0&theme=github_dark&layout=compact&custom_title=Languages&langs_count=3&hide=Ruby">
 </picture>
+
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://stackoverflow-card.vercel.app/?userID=353337&showAnimations=false&showBorder=false&theme=tomorrow">
+  <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow-card.vercel.app/?userID=353337&showAnimations=false&showBorder=false&theme=tomorrownightbright">
+  <img alt="Stackoverflow" src="https://stackoverflow-card.vercel.app/?userID=353337&showAnimations=false&showBorder=false&theme=tomorrownightbright">
+</picture>
